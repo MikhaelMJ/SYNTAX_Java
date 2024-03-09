@@ -1,0 +1,25 @@
+package com.syntax.class11;
+
+public class Task8 {
+
+	public static void main(String[] args) {
+
+        int[] array = {10,9,12,20,0,15};
+		
+		int largest = array[0];
+		int secondLargest = 0;
+		for (int i = 1; i<array.length; i++) {
+			if (array[i]>largest) {
+				secondLargest=largest;
+				largest=array[i];
+			}else if(array[i]>secondLargest) {
+				secondLargest=array[i];
+			}
+			
+		}
+		System.out.println(largest);
+		System.out.println(secondLargest);
+
+	}
+
+}

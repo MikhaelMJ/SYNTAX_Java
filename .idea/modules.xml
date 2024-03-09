@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSyntax.iml" filepath="$PROJECT_DIR$/JavaSyntax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eclips/eclips.iml" filepath="$PROJECT_DIR$/eclips/eclips.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/fromeclips.iml" filepath="$PROJECT_DIR$/src/fromeclips.iml" />
+    </modules>
+  </component>
+</project>
