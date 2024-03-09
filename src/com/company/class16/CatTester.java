@@ -5,6 +5,7 @@ public class CatTester {
         Cat cat = new Cat();
         cat.name="mano";
 
+
         Cat cat2=new Cat();
         cat2.name="billi";
 
