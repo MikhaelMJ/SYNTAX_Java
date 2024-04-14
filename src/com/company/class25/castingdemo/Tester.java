@@ -6,11 +6,12 @@ public class Tester {
         father.sleep();
         father.eat();
         //abdullah.playGames ошибка
+        Son son=(Son) father;
+        son.playGames();
 
         Father[] abdullahArray=new Father[5];
 
-        Son son=(Son) father;
-        son.playGames();
+
 
 
         father = new Fawad("Fawad");
